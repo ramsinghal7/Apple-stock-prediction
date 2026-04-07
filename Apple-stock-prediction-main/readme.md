@@ -14,7 +14,7 @@ B.Tech AI & Data Science | Predictive Analytics | MPSTME Indore
 ## 📊 Dataset
 AAPL.csv — 10,467 rows × 7 columns — 1980 to 2022
 
-## 🗂️ Project structure new
+## 🗂️ Project structure 
 apple_stock_prediction/
 ├── data/               # Dataset (not uploaded — add your own AAPL.csv)
 ├── scripts/
@@ -70,3 +70,4 @@ seaborn
 scikit-learn
 statsmodels
 joblib
+pandas
